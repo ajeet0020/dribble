@@ -9,10 +9,10 @@ html,body{
 }
 
 #main{
-    height: 150%;
+    height: 100%;
     width: 100%;
     padding: 30px;
-    background-color:lightblue;
+    background-color:white;
 
     display: flex;
     gap: 20px;
